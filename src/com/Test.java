@@ -10,6 +10,7 @@ public class Test {
 		System.out.println(44);
 		System.out.println("aa");
 		System.out.println("bb");
+		System.out.println("cc");
 	}
 
 }
