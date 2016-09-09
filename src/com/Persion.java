@@ -5,5 +5,6 @@ public class Persion {
 		// TODO Auto-generated method stub
 		System.out.println(11);
 		System.out.println("aa");
+		System.out.println("bb");
 	}
 }
