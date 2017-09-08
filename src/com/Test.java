@@ -19,6 +19,7 @@ public class Test {
 		System.out.println("idea");
 		System.out.println("ideaaa");
 		System.out.println("ideabbb");
+		System.out.println("eclipseaaa");
 	}
 
 }
